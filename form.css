@@ -1,0 +1,64 @@
+h1{
+    background-color: #439494f3;
+    text-align: center;
+}
+.form{
+    padding: 20px;
+    height: 600px;
+    width: 600px;
+    text-align: center;
+    display: inline-block;
+}
+label{
+    padding: 5px;
+    font-weight: bold;
+    margin: 10px;
+}
+#enroll-btn{
+    background-color:#7070f0;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius:10px;
+}
+#reset-btn{
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #ff0000a4;
+    border-radius: 10px;
+}
+.input-field{
+    border-radius: 5px;
+    height: 30px;
+    width: 20em;
+    padding: 5px 10px;
+    margin: 10px;
+}
+#reset-btn:hover, #enroll-btn:hover{
+    box-shadow: 0 0 20px 10px rgba(64, 71, 66, 0.712);
+    transition: 0.5s; 
+}
+h2{
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+}
+.form-info{
+    padding-left: -60px;
+    text-align: center;
+    margin-left: 610px;
+    margin-top: -610px;
+    height: 600px;
+}
+#tbl{
+    color: #08145a;
+    outline: none;
+    display: inline-block;
+    padding: 2px;
+}
+.thead{
+    font-size: 22px;
+    background-color:rgba(26, 192, 26, 0.507);
+}
+tr{
+    padding: 5px;
+}
